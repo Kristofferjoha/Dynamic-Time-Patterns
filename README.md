@@ -11,8 +11,9 @@ This project implements a trading algorithm that predicts forex returns using hi
 - **Method**: kNN forecasting with custom embeddings and distance metrics.
 - **Goal**: Predict standardized EMA returns for time series forecasting.
 
-- ## Explore the Algorithm
-Dive into the details in [`Dynamic_Time_Patterns.ipynb`](Dynamic_Time_Patterns.ipynb), which includes:
+- ## Notebook about the algorithm
+[`Dynamic_Time_Patterns.ipynb`](Dynamic_Time_Patterns.ipynb), which includes:
+- preprocessing
 - Math behind algorithms.
 - Full implementation and results.
 

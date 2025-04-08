@@ -1,4 +1,4 @@
-# knn-dtw-algorithm
+# knn-forecasting-algorithm
 
 A k-Nearest Neighbors (kNN) forecasting model for predicting standardized EMA returns.
 
